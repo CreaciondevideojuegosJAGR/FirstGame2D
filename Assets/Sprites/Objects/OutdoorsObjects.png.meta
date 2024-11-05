@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 5bf783281e8f7d6498605faea02825ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OutdoorsObjects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -3, y: -9}
+        - {x: 11, y: -11}
+        - {x: 10, y: -5}
+        - {x: 6, y: 0}
+        - {x: 2, y: 4}
+        - {x: -5, y: 3}
+        - {x: -8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a80249735acf44db398521afb9383b
+      internalID: -386731893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -12, y: 2}
+        - {x: -12, y: 0}
+        - {x: -9, y: 0}
+        - {x: -4, y: -1}
+        - {x: 0, y: -1}
+        - {x: 2, y: 0}
+        - {x: 1, y: 3}
+        - {x: -1, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109bf7f19a10674e9f3aa813df3a74e
+      internalID: 1697727501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 4}
+        - {x: -12, y: -2}
+        - {x: -13, y: -9}
+        - {x: 1, y: -12}
+        - {x: 11, y: -8}
+        - {x: 12, y: -2}
+        - {x: 7, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f321448ad58ae49aeec5aa96f1b599
+      internalID: 1871729639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -10, y: -1}
+        - {x: -10, y: -5}
+        - {x: -3, y: -6}
+        - {x: 4, y: -10}
+        - {x: 10, y: -10}
+        - {x: 13, y: -8}
+        - {x: 12, y: -4}
+        - {x: 4, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3bce34c37db74dafc9037a4a48004
+      internalID: 1952762429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 8}
+        - {x: -6, y: 8}
+        - {x: -9, y: 4}
+        - {x: -8, y: 0}
+        - {x: -6, y: -4}
+        - {x: 1, y: -3}
+        - {x: 11, y: -5}
+        - {x: 11, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6ce5bcc9b0084e830bf86bc317fbd
+      internalID: 373419418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 5}
+        - {x: -8, y: 4}
+        - {x: -10, y: -4}
+        - {x: -5, y: -8}
+        - {x: 3, y: -7}
+        - {x: 6, y: -4}
+        - {x: 5, y: 1}
+        - {x: 3, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5099bd3ebe6b438c770afa4ea4796
+      internalID: 85146910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 6}
+        - {x: -5, y: 6}
+        - {x: -6, y: 3}
+        - {x: -7, y: -2}
+        - {x: -5, y: -6}
+        - {x: 2, y: -7}
+        - {x: 6, y: -4}
+        - {x: 8, y: 0}
+        - {x: 6, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a98001b45400cd4ab16b6ae0919b224
+      internalID: 1606870811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 5}
+        - {x: -4, y: 5}
+        - {x: -6, y: 1}
+        - {x: -7, y: -5}
+        - {x: -5, y: -8}
+        - {x: 4, y: -7}
+        - {x: 8, y: -5}
+        - {x: 8, y: 0}
+        - {x: 5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e438d24b31203f4a9027bf49956c933
+      internalID: -425213736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 9}
+        - {x: -9, y: 4}
+        - {x: -10, y: -3}
+        - {x: -7, y: -14}
+        - {x: 11, y: -14}
+        - {x: 10, y: 7}
+        - {x: 3, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1ab7bb9a95164d9887e317e5ce101
+      internalID: 1489879599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 9}
+        - {x: -11, y: -6}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391006e20cc4fb74f9508d78565f9032
+      internalID: 479963553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 12}
+        - {x: -16, y: -6}
+        - {x: -7, y: -7}
+        - {x: 10, y: -6}
+        - {x: 16, y: -5}
+        - {x: 16, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399966d25ebaab4f9766f937147b4e4
+      internalID: -1749011127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 12}
+        - {x: -12, y: -15}
+        - {x: 11, y: -15}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71ebc7ae3692c40a5d4e37da7b2eeb
+      internalID: 655292727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 8}
+        - {x: -3, y: 5}
+        - {x: -9, y: 1}
+        - {x: -10, y: -4}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -7}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3871f8252bf8cb419a63af73a836135
+      internalID: 840036612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 12}
+        - {x: -9, y: -3}
+        - {x: -5, y: -11}
+        - {x: 2, y: -10}
+        - {x: 8, y: -8}
+        - {x: 12, y: 1}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066112d958c63c04e867a98e20d20e4d
+      internalID: 1125900769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -15}
+        - {x: -14, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: -2}
+        - {x: 8, y: 11}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b5114f2ddc4245b75949772402133
+      internalID: 1900024158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 16}
+        - {x: -10, y: -16}
+        - {x: -12, y: -16}
+        - {x: 10, y: -15}
+        - {x: 10, y: 8}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8428bcbde6bc40b4d2e9a59ae6d42
+      internalID: 826113365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 14}
+        - {x: -10, y: 2}
+        - {x: -10, y: -8}
+        - {x: -8, y: -15}
+        - {x: 9, y: -14}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3764f47089035414980f492391009f3d
+      internalID: -836213989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 14}
+        - {x: -11, y: -10}
+        - {x: 15, y: -10}
+        - {x: 11, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026af5987f199234e8708b9c7e7f0c29
+      internalID: -611849146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -16, y: 7}
+        - {x: -15, y: -12}
+        - {x: 14, y: -11}
+        - {x: 15, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bb6e4435013f2419a37fc181e89b95
+      internalID: -1922855363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 14}
+        - {x: -13, y: -11}
+        - {x: 10, y: -11}
+        - {x: 11, y: -2}
+        - {x: 11, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22cc1195402e94ea87f6d5dc16931d
+      internalID: -676973518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutdoorsObjects_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -11, y: 12}
+        - {x: -10, y: 6}
+        - {x: -4, y: 1}
+        - {x: 2, y: -1}
+        - {x: 8, y: 1}
+        - {x: 7, y: 6}
+        - {x: 12, y: 8}
+        - {x: 9, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc14d05f69495e4098a88337412c0b8
+      internalID: -1270926393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OutdoorsObjects_0: -386731893
+      OutdoorsObjects_1: 1697727501
+      OutdoorsObjects_10: -1749011127
+      OutdoorsObjects_11: 655292727
+      OutdoorsObjects_12: 840036612
+      OutdoorsObjects_13: 1125900769
+      OutdoorsObjects_14: 1900024158
+      OutdoorsObjects_15: 826113365
+      OutdoorsObjects_16: -836213989
+      OutdoorsObjects_17: -611849146
+      OutdoorsObjects_18: -1922855363
+      OutdoorsObjects_19: -676973518
+      OutdoorsObjects_2: 1871729639
+      OutdoorsObjects_20: -1270926393
+      OutdoorsObjects_3: 1952762429
+      OutdoorsObjects_4: 373419418
+      OutdoorsObjects_5: 85146910
+      OutdoorsObjects_6: 1606870811
+      OutdoorsObjects_7: -425213736
+      OutdoorsObjects_8: 1489879599
+      OutdoorsObjects_9: 479963553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
